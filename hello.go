@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
   fmt.Println("Hello World!")
-  x := 20.0
+  var x = 0x0A
   fmt.Println(x)
   fmt.Printf("x is of type %T\n", x)
 }
